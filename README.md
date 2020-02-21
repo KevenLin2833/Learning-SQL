@@ -1,1 +1,1 @@
-"# Learning-SQL" 
+Learning SQL using Microsoft SQL Server
